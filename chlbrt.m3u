@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1  tvg-logo="https://es.wikipedia.org/wiki/Archivo:Tvn.png",TVN
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL
+
+#EXTINF:-1  tvg-logo="http://www.m3u.cl/logo/45129_TV_.png",TV+
+https://mdstrm.com/live-stream-playlist/5cb5f2bd50ae45798813ba17.m3u8?PlaylistM3UCL
